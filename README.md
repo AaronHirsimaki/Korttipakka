@@ -1,2 +1,0 @@
-# Korttipakka
-Korttipakka
