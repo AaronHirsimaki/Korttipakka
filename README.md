@@ -1,4 +1,7 @@
-## Getting Started
+## PikaPakka
+
+![Logo](PikaPakka.png)
+
 
 First, run the development server:
 
